@@ -39,3 +39,12 @@ The multimodal search takes into account the 0.8 of the text score and 0.2 of th
 That could be improved because text score will win most of the times and image score will be almost residual.
 
 That could be improved by having a more specific user input to searh on the image collection.
+
+
+## UI Screenshots
+
+<img width="756" height="493" alt="Screenshot 2025-07-15 at 00 00 56" src="https://github.com/user-attachments/assets/77028265-0c0f-40e4-b60f-90c5b8f19f75" />
+<img width="756" height="493" alt="Screenshot 2025-07-15 at 00 01 10" src="https://github.com/user-attachments/assets/a0879954-0afc-49df-a411-05b3a89dc357" />
+<img width="756" height="493" alt="Screenshot 2025-07-15 at 00 03 06" src="https://github.com/user-attachments/assets/3a0a85ae-3697-4dd8-83e5-577beb06a2b3" />
+<img width="756" height="493" alt="Screenshot 2025-07-15 at 00 03 19" src="https://github.com/user-attachments/assets/41d4caa5-e6b6-49f3-8e0e-25165098cef5" />
+
