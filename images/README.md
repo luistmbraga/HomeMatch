@@ -1,4 +1,4 @@
-Please add your own images or use the ones in the .zip
+Please add your own images or contact me to send you the images
 
 If you want to generate your own give them the following names:
 
