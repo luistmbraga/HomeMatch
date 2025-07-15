@@ -1,11 +1,11 @@
-neighborhood,price,bedrooms,bathrooms,house_size,location_type,condition,reserved
-Green Oaks,800000,3,2,2000,Mountain,ranch house in perfect condition,false
-Sunset Hill,100000,4,3,2400,Mountain,house ruin to fix,false
-Sunny Beach,200000,3,2,400,Beach,house that needs smalls repairs,false
-Italy Bay,950000,4,3,100,Beach,new house,false
-Lumen District,250000,3,2,120,City Center,used apartament that was fixed recently,false
-Stonebridge Row,300000,4,3,90,City Center,new apartment,false
-Oakridge Glen,40000,3,2,40,Suburbs,apartament to fix,false
-Meadowgate,700000,4,3,500,Suburbs,new single family house,false
-Willowmere,220000,3,2,300,Small Village,with garden to fix,false
-Bracken Hollow,320000,4,3,250,Small Village,new single family house,false
+id,neighborhood,price,bedrooms,bathrooms,house_size,location_type,condition,reserved
+1,Green Oaks,800000,3,2,2000,Mountain,ranch house in perfect condition,false
+2,Sunset Hill,100000,4,3,2400,Mountain,house ruin to fix,false
+3,Sunny Beach,200000,3,2,400,Beach,house that needs smalls repairs,false
+4,Italy Bay,950000,4,3,100,Beach,new house,false
+5,Lumen District,250000,3,2,120,City Center,used apartament that was fixed recently,false
+6,Stonebridge Row,300000,4,3,90,City Center,new apartment,false
+7,Oakridge Glen,40000,3,2,40,Suburbs,apartament to fix,false
+8,Meadowgate,700000,4,3,500,Suburbs,new single family house,false
+9,Willowmere,220000,3,2,300,Small Village,with garden to fix,false
+10,Bracken Hollow,320000,4,3,250,Small Village,new single family house,false
