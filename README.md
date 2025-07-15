@@ -48,3 +48,18 @@ That could be improved by having a more specific user input to searh on the imag
 <img width="756" height="493" alt="Screenshot 2025-07-15 at 00 03 06" src="https://github.com/user-attachments/assets/3a0a85ae-3697-4dd8-83e5-577beb06a2b3" />
 <img width="756" height="493" alt="Screenshot 2025-07-15 at 00 03 19" src="https://github.com/user-attachments/assets/41d4caa5-e6b6-49f3-8e0e-25165098cef5" />
 
+## Udacity review and feedback
+
+### Additional References
+
+<img width="951" height="709" alt="Screenshot 2025-07-15 at 15 06 16" src="https://github.com/user-attachments/assets/a56d34fe-ef9d-4ba5-9807-ea5519e094f7" />
+<img width="1023" height="206" alt="Screenshot 2025-07-15 at 15 06 23" src="https://github.com/user-attachments/assets/62005b3c-03fa-43f3-b00d-4e7183ca6022" />
+
+
+Retrieval-Augmented Response Generation for Knowledge-Grounded Conversation
+
+https://ieeexplore.ieee.org/document/9982598
+
+Vector databases in LLMs and search
+
+https://www.infoworld.com/article/2335281/vector-databases-in-llms-and-search.html
