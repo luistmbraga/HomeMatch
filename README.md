@@ -63,3 +63,23 @@ https://ieeexplore.ieee.org/document/9982598
 Vector databases in LLMs and search
 
 https://www.infoworld.com/article/2335281/vector-databases-in-llms-and-search.html
+
+
+## Images
+
+<img width="1344" height="768" alt="1" src="https://github.com/user-attachments/assets/2b2ccc46-65d3-400f-9f65-44c30e5fae3a" />
+<img width="1344" height="768" alt="2" src="https://github.com/user-attachments/assets/ea8156c3-e06c-4175-a08b-e02af99c5906" />
+<img width="2048" height="2048" alt="3" src="https://github.com/user-attachments/assets/69303f11-7376-4be7-862f-6f23b26bdd5e" />
+<img width="1344" height="768" alt="4" src="https://github.com/user-attachments/assets/605f244a-dd71-488b-8601-4c95ccba6ae1" />
+<img width="2816" height="1536" alt="5" src="https://github.com/user-attachments/assets/2da69f0b-54e8-46c7-9aae-2c27fba838e7" />
+
+<img width="2816" height="1536" alt="6" src="https://github.com/user-attachments/assets/3d80d053-90b4-494e-87d2-01674e67a016" />
+<img width="2816" height="1536" alt="7" src="https://github.com/user-attachments/assets/fd1928e6-1d67-444b-a7bb-f92c7ee10bfb" />
+<img width="2816" height="1536" alt="8" src="https://github.com/user-attachments/assets/de308766-9754-4290-82c5-7fa5ab2c6057" />
+<img width="2816" height="1536" alt="9" src="https://github.com/user-attachments/assets/ae1abb63-2826-4f0c-b53d-33aca42ad1fc" />
+<img width="2816" height="1536" alt="10" src="https://github.com/user-attachments/assets/f93c43f3-da7f-43fb-a539-8611a3bac832" />
+
+
+
+
+
