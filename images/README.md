@@ -1,6 +1,6 @@
-Please add your own images or contact me to send you the images
+Please add your own images or use the ones on the main README file
 
-If you want to generate your own give them the following names:
+If you want to generate your own or use the ones on the README give them the following names:
 
 * 1.png
 * 2.png
